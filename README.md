@@ -1,24 +1,20 @@
-Learn web development MDN
+Web development
 
 https://developer.mozilla.org/en-US/docs/Learn
-
-Web Development w3schools
-
+https://www.htmldog.com/
 https://www.w3schools.com/whatis/default.asp
+https://www.tutorialspoint.com/web_development_tutorials.htm
 
 Tutorials Mobile Development
 
 https://www.tutorialspoint.com/mobile_development_tutorials.htm
 
-Tutorials Web Development
 
-https://www.tutorialspoint.com/web_development_tutorials.htm
-
-Tutorials Math
+Math Tutorials 
 
 https://www.tutorialspoint.com/maths_tutorials.htm
 
-Tutorials Databases
+Databases Tutorials 
 
 https://www.tutorialspoint.com/database_tutorials.htm
 
