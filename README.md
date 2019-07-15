@@ -1,8 +1,11 @@
 Web development
 
 https://developer.mozilla.org/en-US/docs/Learn
+
 https://www.htmldog.com/
+
 https://www.w3schools.com/whatis/default.asp
+
 https://www.tutorialspoint.com/web_development_tutorials.htm
 
 Tutorials Mobile Development
